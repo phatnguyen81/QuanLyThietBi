@@ -163,6 +163,7 @@
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\ProductGroupController.cs" />
     <Compile Include="Controllers\ProductController.cs" />
+    <Compile Include="Controllers\WareHouseController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -292,6 +293,8 @@
     <Content Include="Views\ProductGroup\List.cshtml" />
     <Content Include="Views\ProductGroup\Create.cshtml" />
     <Content Include="Views\Shared\_NavbarHeader.cshtml" />
+    <Content Include="Views\WareHouse\MoveProduct.cshtml" />
+    <Content Include="Views\Shared\_Login.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
