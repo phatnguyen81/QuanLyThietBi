@@ -286,12 +286,12 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
-    <Content Include="Views\Shared\_Layout - Copy.cshtml" />
     <Content Include="Views\Product\List.cshtml" />
     <Content Include="Views\Shared\_Menu.cshtml" />
     <Content Include="Views\Product\Create.cshtml" />
     <Content Include="Views\ProductGroup\List.cshtml" />
     <Content Include="Views\ProductGroup\Create.cshtml" />
+    <Content Include="Views\Shared\_NavbarHeader.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
